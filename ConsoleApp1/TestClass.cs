@@ -12,5 +12,10 @@ namespace ConsoleApp1
     void Test(string name) {
             Console.Write(name);
     }
+
+    void NewBranchMethod(int i)
+        {
+            Console.WriteLine(i);
+        }
   }
 }
