@@ -1,0 +1,9 @@
+C:\Users\gunta.reddy\source\repos\ConsoleApp1\ConsoleApp6\bin\Debug\ConsoleApp6.exe.config
+C:\Users\gunta.reddy\source\repos\ConsoleApp1\ConsoleApp6\bin\Debug\ConsoleApp6.exe
+C:\Users\gunta.reddy\source\repos\ConsoleApp1\ConsoleApp6\bin\Debug\ConsoleApp6.pdb
+C:\Users\gunta.reddy\source\repos\ConsoleApp1\ConsoleApp6\bin\Debug\WebDriver.dll
+C:\Users\gunta.reddy\source\repos\ConsoleApp1\ConsoleApp6\bin\Debug\WebDriver.xml
+C:\Users\gunta.reddy\source\repos\ConsoleApp1\ConsoleApp6\obj\Debug\amazon.csproj.CoreCompileInputs.cache
+C:\Users\gunta.reddy\source\repos\ConsoleApp1\ConsoleApp6\obj\Debug\amazon.csproj.CopyComplete
+C:\Users\gunta.reddy\source\repos\ConsoleApp1\ConsoleApp6\obj\Debug\ConsoleApp6.exe
+C:\Users\gunta.reddy\source\repos\ConsoleApp1\ConsoleApp6\obj\Debug\ConsoleApp6.pdb
