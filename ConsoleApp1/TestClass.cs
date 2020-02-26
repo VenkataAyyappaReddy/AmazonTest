@@ -8,6 +8,9 @@ namespace ConsoleApp1
 {
   class TestClass
   {
-    //Demo file
+        //Demo file
+    void Test(string name) {
+            Console.Write(name);
+    }
   }
 }
